@@ -1,4 +1,4 @@
-# M y-ML-Project
+# My-ML-Project
 in this project,I have Created a ML model which predicts music genre according to the age and gender.
 
 
